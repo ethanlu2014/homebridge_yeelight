@@ -90,7 +90,7 @@ YeeDevice = function (did, loc, model, power, bri, hue, sat, ct, name, cb) {
                 return;
             }
 
-            console.log("send hb to: " + that.did);
+            console.log("send hb to: " + that.did + " - " + that.name);
 
             that.sendCmd({
                 id: -1,
