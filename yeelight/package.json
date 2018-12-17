@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/ethanlu2014/homebridge_yeelight.git"
+    "url": "github:ethanlu2014/homebridge_yeelight"
   },
   "bugs": {
     "url": "http://github.com/ethanlu2014/homebridge_yeelight/issues"
